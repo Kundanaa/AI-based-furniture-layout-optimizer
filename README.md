@@ -1,4 +1,4 @@
-# Insydeio_AIMLIntern_TechAssignment
+# AI-based furniture layout optimizer
 
 
 #### **Project Overview**
